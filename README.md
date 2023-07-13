@@ -5,14 +5,17 @@ Gin-Rummy-AI-vs-Human is a fully-featured implementation of the classic card gam
 ### Installation
 ___
 1. Clone the repository to your local machine. <br />
-   git clone https://github.com/rawbeen248/Gin-Rummy-AI-vs-Human
-
+```
+git clone https://github.com/rawbeen248/Gin-Rummy-AI-vs-Human
+```
 2. Navigate to the cloned repository. <br />
-   cd Gin-Rummy-AI-vs-Human
-
+```
+cd Gin-Rummy-AI-vs-Human
+```
 3. Ensure you have Python installed and run the game. <br />
-   python main.py
-
+```
+python main.py
+```
 ### Usage 
 ___
 The game, carried out in the console, adheres to the standard rules of Gin Rummy. Each game round commences by dealing 10 cards to both the player and the AI bot. Subsequently, players alternate turns, during which they can opt to draw from either the deck or the discard pile, and must discard one card from their hand.
